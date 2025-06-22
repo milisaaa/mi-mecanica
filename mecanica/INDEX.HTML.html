@@ -1,0 +1,83 @@
+<!DOCTYPE html >
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Mecánica</title>
+<link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <div class="container">
+      <header class="superior">
+        <div class="logo">
+<img src="imagenes/logo.png" alt="">
+        </div>
+      <nav class="menu">
+<ul class="opciones">
+    <li><a href="">INICIO</a></li>
+    <li><a href="">NOSOTROS</a></li>
+    <li><a href="">SERVICIOS</a></li>
+    <li><a href="">NOTICIAS</a></li>
+    <li><a href="">CONTACTO</a></li>
+</ul>
+      </nav>
+      </header>
+<section class="slider">
+  <img src="imagenes/slider01.jpg" alt="" width="100%">
+</section>
+<section class="cuerpo">
+  <h1 class="titulo"> 
+    Bienvenidos a tu Mecánica de Confianza
+  </h1>
+  <article class="caja">
+    <div class="subtitulo">
+<img src="imagenes/servicio01.jpg" alt="" class="efecto">
+<h3 class="SERVICIOS">
+  SERVICIOS 01
+</h3>
+  </div>
+    <div class="contenido">
+      <p> texto de informacion</p>
+      <center> <input type="submit" class="boton" value="ACCEDER"> </center>
+    </div>
+    </article>
+  <article class="caja">
+    <div class="subtitulo">
+<img src="imagenes/servicio02.jpg" alt="" class="efecto">
+<h3 class="SERVICIOS">
+  SERVICIOS 02
+</h3>
+    </div>
+    <div class="contenido">
+      <p> texto de informacion</p>
+ <center> <input type="submit" class="boton" value="ACCEDER"> </center>
+    </div>
+    </article>
+  <article class="caja">
+    <div class="subtitulo">
+<img src="imagenes/servicio03.jpg" alt="" class="efecto">
+<h3 class="SERVICIOS">
+  SERVICIOS 03
+</h3>
+    </div>
+    <div class="contenido">
+      <p> texto de informacion</p>
+ <center> <input type="submit" class="boton" value="ACCEDER"> </center>
+    </div>
+  </article>
+</section>
+<footer class="pie">
+  <div class="izquierda">
+<center><img src="imagenes/logo-blanco.png" alt="" width="180"></center>
+<p class="abajo"> texto de informacion</p>
+  </div>
+   <div class="derecha">
+    <center>
+      <img src="imagenes/instagram.png" alt="">
+        <img src="imagenes/twitter.png" alt="">
+          <img src="imagenes/youtube.png" alt="">
+    </center>
+<p class="siguenos">síguenos</p>
+  </div>
+</footer>
+</body>
+</html>
